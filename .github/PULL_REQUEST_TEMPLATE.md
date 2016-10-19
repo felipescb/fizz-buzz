@@ -1,2 +1,4 @@
 ### Language Name
-Issue Number ( #15 )
+Issue Number ( Example: #15 )
+
+- [ ] Claimed the language on the issue
